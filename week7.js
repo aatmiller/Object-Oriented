@@ -168,3 +168,5 @@ console.log(willMulligan(sixLands, sixCardsInHand));
 //draw a new hand (mulligan) is by counting the number of lands in your hand
 //and the number of remaining cards. This function uses boolean manipulation
 //to provide an answer to whether or not you should mulligan.
+
+//This is the line I use to give the file a modified state
